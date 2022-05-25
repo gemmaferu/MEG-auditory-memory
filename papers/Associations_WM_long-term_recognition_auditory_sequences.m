@@ -5,7 +5,7 @@
 %If you find this script useful, please cite the following papers:
 %Fernández-Rubio, G., Carlomagno, F., Vuust, P., Kringelbach, M. L., & Bonetti, L. (2022). Associations between abstract working memory abilities and brain activity underlying long-term recognition of auditory sequences. bioRxiv.
 %https://www.biorxiv.org/content/10.1101/2022.05.19.492607v1.abstract
-%Bonetti, L., Brattico, E., Carlomagno, F., Cabral, J., Stevner, A., Deco, G., Whybrow, P.C., Pearce, M., Pantazis, D., Vuust, P., & Kringelbach, M.L. (2022). Spatiotemporal whole-brain dynamics of auditory patterns recognition. bioRxiv.
+%Bonetti, L., Brattico, E., Carlomagno, F., Cabral, J., Stevner, A., Deco, G., Whybrow, P.C., Pearce, M., Pantazis, D., Vuust, P., & Kringelbach, M.L. (2021). Spatiotemporal whole-brain dynamics of auditory patterns recognition. bioRxiv.
 %https://www.biorxiv.org/content/10.1101/2020.06.23.165191v3
 
 %To use this script, you will need to download the following:
