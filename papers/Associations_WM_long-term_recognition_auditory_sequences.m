@@ -8,7 +8,7 @@
 %Bonetti, L., Brattico, E., Carlomagno, F., Cabral, J., Stevner, A., Deco, G., Whybrow, P.C., Pearce, M., Pantazis, D., Vuust, P., & Kringelbach, M.L. (2021). Spatiotemporal whole-brain dynamics of auditory patterns recognition. bioRxiv.
 %https://www.biorxiv.org/content/10.1101/2020.06.23.165191v3
 
-%To use this script, you will need to download the following:
+%You can find the functions used in this script at the following links:
 %(1) LBPD functions (https://github.com/leonardob92/LBPD-1.0.git) provided by Dr. Leonardo Bonetti (leonardo.bonetti@clin.au.dk)
 %(2) FieldTrip (http://www.fieldtriptoolbox.org/)
 %(3) SPM (https://www.fil.ion.ucl.ac.uk/spm/)
